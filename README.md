@@ -4,10 +4,15 @@
    Instruções de Uso:
 
 Ao iniciar o programa, o usuário será apresentado a um menu com as seguintes opções:
+
 1. Apostar em um número de 0 a 100.
+
 1.1 Apostar em uma letra de A a Z.
+
 1.2 Apostar em um número par ou ímpar.
+
 1.3 Sair do programa.
+
 O usuário pode escolher uma das opções digitando o número correspondente.
 Dependendo da opção escolhida, o usuário será solicitado a inserir informações adicionais, como um número, uma letra.
 Após a inserção das informações, o programa informará se o usuário ganhou ou perdeu e o valor do prêmio, se aplicável.
