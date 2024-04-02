@@ -1,6 +1,9 @@
  O LOTOFACIL é um programa em Java que simula um jogo de loteria, permitindo aos usuários realizar apostas em diferentes modalidades, como escolher um número entre 0 e 100, apostar em uma letra de A a Z ou decidir se um número é par ou ímpar.
+  
   Para a realização do projeto utilizei do VS Code, mas poderia ser realizado através de outros editores de texto como o inteliji, e para rodar o código é necessário ter no computador o JDK 8 ou superior.
+  
    Caso queira rodar o projeto você precisa baixar o intelijji de preferência criar um projeto de mesmo nome e rodar no terminal, ou você pode ou então abrir prompt de comando e digitar javac Lotofacil.java, e depois o execute com o seguinte comando: java Lotofacil.
+   
    Instruções de Uso:
 
 Ao iniciar o programa, o usuário será apresentado a um menu com as seguintes opções:
