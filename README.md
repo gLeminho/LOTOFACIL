@@ -21,3 +21,8 @@ Dependendo da opção escolhida, o usuário será solicitado a inserir informaç
 Após a inserção das informações, o programa informará se o usuário ganhou ou perdeu e o valor do prêmio, se aplicável.
 O usuário pode repetir o processo quantas vezes desejar até optar por sair do programa digitando 0.
   Todas as bibliotecas estão no começo do código logo depois do import, são bibliotecas forncidas pelo JDK.
+
+<img width="361" alt="image" src="https://github.com/gLeminho/LOTOFACIL/assets/156124383/e06d8e54-e2e0-4d15-869a-f5afa41bafe8">
+
+  <img width="539" alt="image" src="https://github.com/gLeminho/LOTOFACIL/assets/156124383/8ea79ef3-5b1d-4288-a2d3-06a8870a909b">
+
